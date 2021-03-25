@@ -90,5 +90,8 @@ class ListContacts extends Component {
     );
   }
 }
+/*
+ *Link is a straightforward way to provide declarative navigation around *your application. By passing a to property to the Link component, you *tell your app which path to route to.
+ */
 
 export default ListContacts;
